@@ -8,6 +8,7 @@
 4、form视图中的lable标签需要指定for=“field name”
 
 5、tre视图的列表颜色控制，没有了color属性写法，改为如下：
+
   红色：decoration-danger="name=='decoration-danger'"
   蓝色：decoration-info="name=='decoration-info'"
   灰色：decoration-muted="name=='decoration-muted'"
