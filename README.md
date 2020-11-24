@@ -28,3 +28,4 @@
 6、<filter>标签需要指定name
   
   
+7、odoo跟踪字段属性参数改变为：tracking=True，没有了之前的onchange和always
