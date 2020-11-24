@@ -17,6 +17,5 @@
   默认颜色（紫色）：decoration-primary="name=='decoration-primary'"
   
   绿色：decoration-success="name=='decoration-success'"
-  
   橙色：decoration-warning="name=='decoration-warning'"
   
